@@ -1,6 +1,4 @@
-/key
-/key.pub
-
+#ssh
 key
 key.pub
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
@@ -16,9 +14,6 @@ key.pub
 
 # production
 /build
-
-.key
-.key.pub
 
 # misc
 .DS_Store
