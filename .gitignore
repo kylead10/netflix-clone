@@ -2,8 +2,8 @@
 
 # Ignore SSH private and public key files
 
-/netflix-clone\key
-/netflix-clone\key.pub
+/netflix-clone/key
+/netflix-clone/key.pub
 
 # dependencies
 /node_modules
